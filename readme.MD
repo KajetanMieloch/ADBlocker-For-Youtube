@@ -26,14 +26,6 @@
 
 1JOYFreedom listens for video ads and uses the `document.querySelector('video').currentTime` method to fast-forward through the ad, minimizing disruption to your viewing experience.
 
-## Support
-
-If you encounter any issues or have suggestions, please file them on the [issue tracker](#).
-
-## License
-
-1JOYFreedom is open-source software licensed under the [MIT license](LICENSE).
-
 ## Disclaimer
 
 This extension is not affiliated with YouTube or any other video platform. It is designed for educational purposes to demonstrate how browser automation can be achieved using JavaScript.
